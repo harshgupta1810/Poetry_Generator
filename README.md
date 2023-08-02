@@ -46,7 +46,3 @@ If you would like to contribute to this project, feel free to submit pull reques
 
 ## Documentation
 The complete documentation for this project can be found in the code itself. Detailed comments are provided to explain the purpose and functionality of each function and component.
-
----
-
-The above README.md file provides an overview of the Hip Hop Lyrics Generator project, explaining its purpose, usage, installation, and other important details. It also includes placeholders for badges, acknowledgments, and license information. You can fill in the specific details for each section and update the badges with relevant information about your project. This README file will help beginners understand the project and how to use it effectively.
