@@ -1,4 +1,4 @@
-# Project Name: Poetry Generator
+# Poetic Prowess : Poetry Generator
 
 ## Table of Contents
 1. [Project Description](#project-description)
